@@ -1,0 +1,15 @@
+/home/ivan/C#/task11/obj/Debug/net6.0/task11.csproj.AssemblyReference.cache
+/home/ivan/C#/task11/obj/Debug/net6.0/task11.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/C#/task11/obj/Debug/net6.0/task11.AssemblyInfoInputs.cache
+/home/ivan/C#/task11/obj/Debug/net6.0/task11.AssemblyInfo.cs
+/home/ivan/C#/task11/obj/Debug/net6.0/task11.csproj.CoreCompileInputs.cache
+/home/ivan/C#/task11/bin/Debug/net6.0/task11
+/home/ivan/C#/task11/bin/Debug/net6.0/task11.deps.json
+/home/ivan/C#/task11/bin/Debug/net6.0/task11.runtimeconfig.json
+/home/ivan/C#/task11/bin/Debug/net6.0/task11.dll
+/home/ivan/C#/task11/bin/Debug/net6.0/task11.pdb
+/home/ivan/C#/task11/obj/Debug/net6.0/task11.dll
+/home/ivan/C#/task11/obj/Debug/net6.0/refint/task11.dll
+/home/ivan/C#/task11/obj/Debug/net6.0/task11.pdb
+/home/ivan/C#/task11/obj/Debug/net6.0/task11.genruntimeconfig.cache
+/home/ivan/C#/task11/obj/Debug/net6.0/ref/task11.dll

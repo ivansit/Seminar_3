@@ -1,0 +1,15 @@
+/home/ivan/C#/task6/bin/Debug/net6.0/task6
+/home/ivan/C#/task6/bin/Debug/net6.0/task6.deps.json
+/home/ivan/C#/task6/bin/Debug/net6.0/task6.runtimeconfig.json
+/home/ivan/C#/task6/bin/Debug/net6.0/task6.dll
+/home/ivan/C#/task6/bin/Debug/net6.0/task6.pdb
+/home/ivan/C#/task6/obj/Debug/net6.0/task6.csproj.AssemblyReference.cache
+/home/ivan/C#/task6/obj/Debug/net6.0/task6.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/C#/task6/obj/Debug/net6.0/task6.AssemblyInfoInputs.cache
+/home/ivan/C#/task6/obj/Debug/net6.0/task6.AssemblyInfo.cs
+/home/ivan/C#/task6/obj/Debug/net6.0/task6.csproj.CoreCompileInputs.cache
+/home/ivan/C#/task6/obj/Debug/net6.0/task6.dll
+/home/ivan/C#/task6/obj/Debug/net6.0/refint/task6.dll
+/home/ivan/C#/task6/obj/Debug/net6.0/task6.pdb
+/home/ivan/C#/task6/obj/Debug/net6.0/task6.genruntimeconfig.cache
+/home/ivan/C#/task6/obj/Debug/net6.0/ref/task6.dll
